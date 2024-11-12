@@ -1,0 +1,42 @@
+    body {
+        background-color: whitesmoke;
+    }
+
+    a {
+        color: black;
+    }
+
+    img {
+        text-align: center;
+    }
+
+    h3 {
+        color: red;
+        text-align: center;
+    }
+
+    button {
+        border-radius: 20px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    #my_button {
+        height: 70px;
+        width: 300px;
+        margin: 0;
+        padding: 10px 20px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        border-radius: 20px;
+    }
+
+    .container {
+        width: 100%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin-bottom: 15px;
+    }
